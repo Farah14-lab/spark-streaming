@@ -1,4 +1,4 @@
-# spark-streaming
+# Metode 1: Mode Stateless Stream Processing
 ## mengecek file network_wordcount di cloudera
 ![Screenshot](img/gambar1.PNG) </br>
 
@@ -10,3 +10,5 @@
 
 ## hasil tampilan 
 ![Screenshot](img/hasil%20running.PNG) </br>
+
+# Metode 2: Mode Stateful Stream Processing
