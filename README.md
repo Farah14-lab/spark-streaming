@@ -1,4 +1,3 @@
-# Metode 1: Mode Stateless Stream Processing
 ## mengecek file network_wordcount di cloudera
 ![Screenshot](img/gambar1.PNG) </br>
 
